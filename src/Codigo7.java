@@ -1,3 +1,5 @@
+//Este código sirve para saber la capital de un pais, el cual se va guardando en un Hashmap
+
 import java.util.HashMap; //Se importa la libreria para el hashmap
 import java.util.Scanner; //Se importa la libreria para scanner
 
